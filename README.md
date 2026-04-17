@@ -96,5 +96,5 @@ This session helped me understand how cyber attacks work and how SOC analysts de
 
 ---
 
-## 🏷️ Tags  
+## Tags  
 `Cybersecurity` `SOC` `Phishing` `Malware` `InfoSec`
